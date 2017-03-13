@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 981c7cbb4bf6cdb4c8a75b72b50a8293
+timeCreated: 1489358476
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leg_left
+    21300002: legr
+    21300004: legl
+    21300006: head
+    21300008: armr
+    21300010: arml
+    21300012: torso
+    21300014: head
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 336, y: 678, z: 367, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 324.3967
+        y: 669.84454
+        width: 341.00003
+        height: 331.18378
+      alignment: 9
+      pivot: {x: 0.5498833, y: 0.01751677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legr
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 22
+        width: 235
+        height: 320.0971
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.52171665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legl
+      rect:
+        serializedVersion: 2
+        x: 585.23914
+        y: 42
+        width: 219.76086
+        height: 304.20038
+      alignment: 9
+      pivot: {x: 0.4539519, y: 0.53090006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arml
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 430.4395
+        width: 192.81268
+        height: 319.5605
+      alignment: 9
+      pivot: {x: 0.53160405, y: 0.4977477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: armr
+      rect:
+        serializedVersion: 2
+        x: 220.50903
+        y: 398.3821
+        width: 210.8786
+        height: 292.95718
+      alignment: 9
+      pivot: {x: 0.3833718, y: 0.40063342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: torso
+      rect:
+        serializedVersion: 2
+        x: 340.19196
+        y: 250.2709
+        width: 384.70166
+        height: 477.40793
+      alignment: 9
+      pivot: {x: 0.4245057, y: 0.53670895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97606988858760
+  assetBundleName: 
+  assetBundleVariant: 
