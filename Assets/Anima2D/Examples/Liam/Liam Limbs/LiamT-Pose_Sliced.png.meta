@@ -1,37 +1,28 @@
 fileFormatVersion: 2
-guid: 013554606cf86954aa5c47e00e345cc0
-timeCreated: 1489364511
+guid: e43b49938cf9dc54692013823b72cd08
+timeCreated: 1489388837
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: Head
-    21300002: BrowR1
-    21300004: BrowL1
-    21300006: BrowR2
-    21300008: BrowL2
-    21300010: LiamT-Pose_5
-    21300012: Mouth2
-    21300014: Mouth1
-    21300016: Mouth3
-    21300018: EyeR2
-    21300020: EyeL2
-    21300022: EyeR
-    21300024: EyeL
-    21300026: LegR
+    21300002: LiamT-Pose_Sliced_1
+    21300004: LiamT-Pose_Sliced_2
+    21300006: LiamT-Pose_Sliced_3
+    21300008: LiamT-Pose_Sliced_4
+    21300010: LiamT-Pose_Sliced_5
+    21300012: LiamT-Pose_Sliced_6
+    21300014: LiamT-Pose_Sliced_7
+    21300016: LiamT-Pose_Sliced_8
+    21300018: LiamT-Pose_Sliced_9
+    21300020: LiamT-Pose_Sliced_10
+    21300022: LiamT-Pose_Sliced_11
+    21300024: LiamT-Pose_Sliced_12
+    21300026: LiamT-Pose_Sliced_13
     21300028: Torso
-    21300030: ShirtR
-    21300032: ArmR
-    21300034: CalfR
-    21300036: HandR
-    21300038: FootR
-    21300040: LegL
-    21300042: ShirtL
-    21300044: ArmL
-    21300046: CalfL
-    21300048: HandL
-    21300050: FootL
-    21300052: EyeR1
-    21300054: EyeL1
+    21300030: ArmR
+    21300032: LegR
+    21300034: ArmL
+    21300036: LegL
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -56,7 +47,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: 16
+    aniso: -1
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -109,166 +100,179 @@ TextureImporter:
       name: Head
       rect:
         serializedVersion: 2
-        x: 34
-        y: 665
-        width: 339
-        height: 337
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5014837}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: BrowR1
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 921
-        width: 109
-        height: 44
-      alignment: 9
-      pivot: {x: 0.5045871, y: 0.5227273}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: BrowL1
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 922
-        width: 89
-        height: 44
+        x: 36
+        y: 667
+        width: 335
+        height: 334
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BrowR2
+      name: LiamT-Pose_Sliced_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 923
+        width: 106
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiamT-Pose_Sliced_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 924
+        width: 85
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiamT-Pose_Sliced_3
       rect:
         serializedVersion: 2
         x: 717
-        y: 905
-        width: 115
-        height: 52
+        y: 903
+        width: 116
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiamT-Pose_Sliced_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 930
+        width: 77
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiamT-Pose_Sliced_5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 910
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiamT-Pose_Sliced_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 805
+        width: 109
+        height: 29
       alignment: 9
       pivot: {x: 0.49999997, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BrowL2
+      name: LiamT-Pose_Sliced_7
       rect:
         serializedVersion: 2
-        x: 849
-        y: 928
-        width: 81
-        height: 59
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mouth2
-      rect:
-        serializedVersion: 2
-        x: 450
-        y: 803
-        width: 113
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mouth1
-      rect:
-        serializedVersion: 2
-        x: 578
+        x: 580
         y: 799
-        width: 151
-        height: 62
+        width: 147
+        height: 60
       alignment: 9
-      pivot: {x: 0.5, y: 0.48387095}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mouth3
+      name: LiamT-Pose_Sliced_8
       rect:
         serializedVersion: 2
-        x: 733
-        y: 810
-        width: 137
-        height: 47
+        x: 735
+        y: 812
+        width: 134
+        height: 43
       alignment: 9
-      pivot: {x: 0.50364965, y: 0.49999997}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EyeR2
+      name: LiamT-Pose_Sliced_9
       rect:
         serializedVersion: 2
-        x: 450
-        y: 669
-        width: 82
+        x: 452
+        y: 670
+        width: 79
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiamT-Pose_Sliced_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 670
+        width: 70
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LiamT-Pose_Sliced_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 667
+        width: 84
         height: 70
       alignment: 9
-      pivot: {x: 0.50609756, y: 0.49285716}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EyeL2
-      rect:
-        serializedVersion: 2
-        x: 556
-        y: 668
-        width: 73
-        height: 69
-      alignment: 9
-      pivot: {x: 0.5068493, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: EyeR1
-      rect:
-        serializedVersion: 2
-        x: 631
-        y: 666
-        width: 88
-        height: 73
-      alignment: 9
-      pivot: {x: 0.5, y: 0.49315068}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: EyeL1
+      name: LiamT-Pose_Sliced_12
       rect:
         serializedVersion: 2
         x: 739
         y: 667
-        width: 94
-        height: 103
+        width: 72
+        height: 80
       alignment: 9
-      pivot: {x: 0.48404253, y: 0.49029127}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: LegR
+      name: LiamT-Pose_Sliced_13
       rect:
         serializedVersion: 2
-        x: 836
-        y: 544
-        width: 167
-        height: 205
+        x: 850
+        y: 700
+        width: 14
+        height: 14
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,25 +282,12 @@ TextureImporter:
       name: Torso
       rect:
         serializedVersion: 2
-        x: 46
-        y: 105.000015
-        width: 396
-        height: 508
+        x: 47
+        y: 107.000015
+        width: 393
+        height: 507
       alignment: 9
-      pivot: {x: 0.49873737, y: 0.5029527}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: ShirtR
-      rect:
-        serializedVersion: 2
-        x: 423
-        y: 442
-        width: 179
-        height: 187
-      alignment: 9
-      pivot: {x: 0.50279325, y: 0.5}
+      pivot: {x: 0.5, y: 0.49999997}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -304,77 +295,25 @@ TextureImporter:
       name: ArmR
       rect:
         serializedVersion: 2
-        x: 527
-        y: 374
-        width: 162
-        height: 169
+        x: 423
+        y: 304
+        width: 323
+        height: 330
       alignment: 9
-      pivot: {x: 0.50617284, y: 0.49408284}
+      pivot: {x: 0.498452, y: 0.49999997}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CalfR
+      name: LegR
       rect:
         serializedVersion: 2
-        x: 784
-        y: 403
-        width: 113
-        height: 145
+        x: 753
+        y: 372
+        width: 237
+        height: 323
       alignment: 9
-      pivot: {x: 0.50884956, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: HandR
-      rect:
-        serializedVersion: 2
-        x: 453
-        y: 253
-        width: 111
-        height: 114
-      alignment: 9
-      pivot: {x: 0.66170686, y: 0.8915183}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: FootR
-      rect:
-        serializedVersion: 2
-        x: 669
-        y: 335
-        width: 130
-        height: 54
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: LegL
-      rect:
-        serializedVersion: 2
-        x: 816
-        y: 257
-        width: 155
-        height: 176
-      alignment: 9
-      pivot: {x: 0.5804235, y: 0.48125094}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: ShirtL
-      rect:
-        serializedVersion: 2
-        x: 452
-        y: 28
-        width: 177
-        height: 186
-      alignment: 9
-      pivot: {x: 0.09647934, y: 0.75746673}
+      pivot: {x: 0.49789026, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -382,56 +321,30 @@ TextureImporter:
       name: ArmL
       rect:
         serializedVersion: 2
-        x: 577
-        y: 107
-        width: 161
-        height: 169
-      alignment: 9
-      pivot: {x: 0.12115289, y: 0.890151}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: CalfL
-      rect:
-        serializedVersion: 2
-        x: 817
-        y: 128
-        width: 85
-        height: 144
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: HandL
-      rect:
-        serializedVersion: 2
-        x: 745
+        x: 532
         y: 14
-        width: 111
-        height: 114
+        width: 323
+        height: 330
       alignment: 9
-      pivot: {x: 0.36532786, y: 0.89935184}
+      pivot: {x: 0.49690402, y: 0.49848482}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FootL
+      name: LegL
       rect:
         serializedVersion: 2
-        x: 885
+        x: 785
         y: 43
-        width: 121
-        height: 54
+        width: 220
+        height: 306
       alignment: 9
-      pivot: {x: 0.49999997, y: 0.5}
+      pivot: {x: 0.49999997, y: 0.503268}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     outline: []
-  spritePackingTag: liam
-  userData: 97608668461722
+  spritePackingTag: 
+  userData: 97608628922960
   assetBundleName: 
   assetBundleVariant: 

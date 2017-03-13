@@ -9,26 +9,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c10c0be6d28fe4d539c4a39822fe301c, type: 3}
-  m_Name: BrowL1
+  m_Name: LiamT-Pose_Sliced_6
   m_EditorClassIdentifier: 
   m_ApiVersion: 3
-  m_Sprite: {fileID: 21300004, guid: 013554606cf86954aa5c47e00e345cc0, type: 3}
-  m_SharedMesh: {fileID: 43133218636535084}
+  m_Sprite: {fileID: 21300012, guid: e43b49938cf9dc54692013823b72cd08, type: 3}
+  m_SharedMesh: {fileID: 43752371350730882}
   m_SharedMaterials:
-  - {fileID: 21768652257629200}
+  - {fileID: 21364897930034910}
   pivotPoint: {x: 0, y: 0}
   texVertices: []
   edges: []
   holes: []
   indices: 
   bindPoses: []
---- !u!21 &21768652257629200
+--- !u!21 &21364897930034910
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: BrowL1_0
+  m_Name: LiamT-Pose_Sliced_6_0
   m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -40,7 +40,7 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: 013554606cf86954aa5c47e00e345cc0, type: 3}
+        m_Texture: {fileID: 2800000, guid: e43b49938cf9dc54692013823b72cd08, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -51,54 +51,38 @@ Material:
     - first:
         name: _Color
       second: {r: 1, g: 1, b: 1, a: 1}
---- !u!43 &43133218636535084
+--- !u!43 &43752371350730882
 Mesh:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: BrowL1
+  m_Name: LiamT-Pose_Sliced_6
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
-    indexCount: 12
+    indexCount: 6
     topology: 0
     firstVertex: 0
-    vertexCount: 6
+    vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.395, y: 0.17, z: 0}
+      m_Extent: {x: 0.495, y: 0.095, z: 0}
   m_Shapes:
     vertices: []
     shapes: []
     channels: []
     fullWeights: []
-  m_BindPose:
-  - e00: -0.89506257
-    e01: -0.44594026
-    e02: 0
-    e03: 0.07075165
-    e10: 0.44594026
-    e11: -0.89506257
-    e12: 0
-    e13: 0.09866151
-    e20: 0
-    e21: 0
-    e22: 1
-    e23: 0
-    e30: 0
-    e31: 0
-    e32: 0
-    e33: 1
+  m_BindPose: []
   m_BoneNameHashes: 
   m_RootBoneNameHash: 0
   m_MeshCompression: 0
   m_IsReadable: 1
   m_KeepVertices: 1
   m_KeepIndices: 1
-  m_IndexBuffer: 050004000100030001000400000001000300020001000000
+  m_IndexBuffer: 000001000200020001000300
   m_Skin:
-  - weight[0]: 1
+  - weight[0]: 0
     weight[1]: 0
     weight[2]: 0
     weight[3]: 0
@@ -106,7 +90,7 @@ Mesh:
     boneIndex[1]: 0
     boneIndex[2]: 0
     boneIndex[3]: 0
-  - weight[0]: 1
+  - weight[0]: 0
     weight[1]: 0
     weight[2]: 0
     weight[3]: 0
@@ -114,7 +98,7 @@ Mesh:
     boneIndex[1]: 0
     boneIndex[2]: 0
     boneIndex[3]: 0
-  - weight[0]: 1
+  - weight[0]: 0
     weight[1]: 0
     weight[2]: 0
     weight[3]: 0
@@ -122,23 +106,7 @@ Mesh:
     boneIndex[1]: 0
     boneIndex[2]: 0
     boneIndex[3]: 0
-  - weight[0]: 1
-    weight[1]: 0
-    weight[2]: 0
-    weight[3]: 0
-    boneIndex[0]: 0
-    boneIndex[1]: 0
-    boneIndex[2]: 0
-    boneIndex[3]: 0
-  - weight[0]: 1
-    weight[1]: 0
-    weight[2]: 0
-    weight[3]: 0
-    boneIndex[0]: 0
-    boneIndex[1]: 0
-    boneIndex[2]: 0
-    boneIndex[3]: 0
-  - weight[0]: 1
+  - weight[0]: 0
     weight[1]: 0
     weight[2]: 0
     weight[3]: 0
@@ -148,7 +116,7 @@ Mesh:
     boneIndex[3]: 0
   m_VertexData:
     m_CurrentChannels: 11
-    m_VertexCount: 6
+    m_VertexCount: 4
     m_Channels:
     - stream: 0
       offset: 0
@@ -182,8 +150,8 @@ Mesh:
       offset: 0
       format: 0
       dimension: 0
-    m_DataSize: 192
-    _typelessdata: 713dca3e7b142e3e000000000000000000000000000080bfb81ec53e7b142ebe000000000000000000000000000080bf713dca3e9a9919be000000000000000000000000000080bf713d0abe7b142e3e000000000000000000000000000080bf713dcabe8fc275bd000000000000000000000000000080bf713dcabe7b142ebe000000000000000000000000000080bf0000303f0040703f00c02f3f00c0673f0000303f0040683f00c0223f0040703f00401c3f00806a3f00401c3f00c0673f
+    m_DataSize: 128
+    _typelessdata: a470fdbe5c8fc23d000000000000000000000000000080bfa470fd3e5c8fc23d000000000000000000000000000080bfa470fdbe5c8fc2bd000000000000000000000000000080bfa470fd3e5c8fc2bd000000000000000000000000000080bf0080e43e00404f3f00000b3f00404f3f0080e43e00804a3f00000b3f00804a3f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -238,12 +206,12 @@ Mesh:
     m_UVInfo: 0
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.395, y: 0.17, z: 0}
+    m_Extent: {x: 0.495, y: 0.095, z: 0}
   m_MeshUsageFlags: 0
   m_BakedConvexCollisionMesh: 
   m_BakedTriangleCollisionMesh: 
   m_MeshOptimized: 0
---- !u!114 &114462440020702898
+--- !u!114 &114591140859683098
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -252,101 +220,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e715ea371f114f4a8d2584ad476634d, type: 3}
-  m_Name: BrowL1_Data
+  m_Name: LiamT-Pose_Sliced_6_Data
   m_EditorClassIdentifier: 
-  m_PivotPoint: {x: 664.5, y: 944}
+  m_PivotPoint: {x: 506.5, y: 819.5}
   m_Vertices:
-  - {x: 704, y: 961}
-  - {x: 703, y: 927}
-  - {x: 704, y: 929}
-  - {x: 651, y: 961}
-  - {x: 625, y: 938}
-  - {x: 625, y: 927}
-  m_BoneWeights:
-  - weight0: 1
-    weight1: 0
-    weight2: 0
-    weight3: 0
-    boneIndex0: 0
-    boneIndex1: -1
-    boneIndex2: -1
-    boneIndex3: -1
-  - weight0: 1
-    weight1: 0
-    weight2: 0
-    weight3: 0
-    boneIndex0: 0
-    boneIndex1: -1
-    boneIndex2: -1
-    boneIndex3: -1
-  - weight0: 1
-    weight1: 0
-    weight2: 0
-    weight3: 0
-    boneIndex0: 0
-    boneIndex1: -1
-    boneIndex2: -1
-    boneIndex3: -1
-  - weight0: 1
-    weight1: 0
-    weight2: 0
-    weight3: 0
-    boneIndex0: 0
-    boneIndex1: -1
-    boneIndex2: -1
-    boneIndex3: -1
-  - weight0: 1
-    weight1: 0
-    weight2: 0
-    weight3: 0
-    boneIndex0: 0
-    boneIndex1: -1
-    boneIndex2: -1
-    boneIndex3: -1
-  - weight0: 1
-    weight1: 0
-    weight2: 0
-    weight3: 0
-    boneIndex0: 0
-    boneIndex1: -1
-    boneIndex2: -1
-    boneIndex3: -1
+  - {x: 457, y: 829}
+  - {x: 556, y: 829}
+  - {x: 457, y: 810}
+  - {x: 556, y: 810}
+  m_BoneWeights: []
   m_Edges:
-  - index1: 5
-    index2: 4
-  - index1: 3
-    index2: 4
-  - index1: 5
-    index2: 1
   - index1: 0
-    index2: 3
-  - index1: 2
-    index2: 0
-  - index1: 2
     index2: 1
+  - index1: 1
+    index2: 3
+  - index1: 0
+    index2: 2
+  - index1: 2
+    index2: 3
   m_Holes: []
-  m_Indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
-  m_BindPoses:
-  - bindPose:
-      e00: -0.89506257
-      e01: -0.44594026
-      e02: 0
-      e03: 0.07075165
-      e10: 0.44594026
-      e11: -0.89506257
-      e12: 0
-      e13: 0.09866151
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    boneLength: 0.43
-    path: Spine/Neck/Eye Brow Left
-    name: Eye Brow Left
-    color: {r: 1, g: 0, b: 0, a: 1}
-    zOrder: 0
+  m_Indices: 000000000100000002000000020000000100000003000000
+  m_BindPoses: []
   m_Blendshapes: []
