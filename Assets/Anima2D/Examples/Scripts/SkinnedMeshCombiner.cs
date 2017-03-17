@@ -6,7 +6,7 @@ public class SkinnedMeshCombiner : MonoBehaviour
 {
 	[SerializeField]
 	SpriteMeshInstance[] m_SpriteMeshInstances;
-
+    
 	SpriteMeshInstance[] spriteMeshInstances {
 		get {
 			return m_SpriteMeshInstances;
@@ -39,6 +39,7 @@ public class SkinnedMeshCombiner : MonoBehaviour
 
 	void Start()
 	{        
+        
 		Vector3 l_position = transform.position;
 		Vector3 l_scale = transform.localScale;
 
