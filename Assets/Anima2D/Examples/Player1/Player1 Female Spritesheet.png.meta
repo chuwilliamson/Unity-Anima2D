@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 04643baa4527ae6418cb25ac12d44957
+timeCreated: 1489718120
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player1 Female Spritesheet_0
+    21300002: Player1 Female Spritesheet_1
+    21300004: Player1 Female Spritesheet_2
+    21300006: Player1 Female Spritesheet_3
+    21300008: Player1 Female Spritesheet_4
+    21300010: Player1 Female Spritesheet_5
+    21300012: Player1 Female Spritesheet_6
+    21300014: Player1 Female Spritesheet_7
+    21300016: Player1 Female Head
+    21300018: Player1 Female Spritesheet_9
+    21300020: Player1 Female Torso
+    21300022: Player1 Female Spritesheet_11
+    21300024: Player1 Female Spritesheet_12
+    21300026: Player1 Female Spritesheet_13
+    21300028: Player1 Female Hair Top
+    21300030: Player1 Female Spritesheet_15
+    21300032: Player1 Legs
+    21300034: Player1 Female Spritesheet_17
+    21300036: Player1 Female Spritesheet_18
+    21300038: Player1 Female Spritesheet_19
+    21300040: Player1 Female Hair Bot
+    21300042: Player1 Female Spritesheet_21
+    21300044: Player1 Female Spritesheet_22
+    21300046: Player1 Female Spritesheet_23
+    21300048: Player1 Female Spritesheet_24
+    21300050: Player1 Female Side Chest
+    21300052: Player1 Female Spritesheet_26
+    21300054: Player1 Female Spritesheet_27
+    21300056: Player1 Female Spritesheet_28
+    21300058: Player1 Female Boobs
+    21300060: Player1 Female Spritesheet_30
+    21300062: Player1 Female Chest Side
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1318
+        width: 355
+        height: 172
+      alignment: 9
+      pivot: {x: 0.49436617, y: 0.5116279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1154
+        width: 164
+        height: 336
+      alignment: 9
+      pivot: {x: 0.527439, y: 0.51339287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1058.9421
+        width: 324.62317
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5287913, y: 0.9484641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1250
+        width: 44
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1184
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1172.4501
+        width: 41
+        height: 22
+      alignment: 9
+      pivot: {x: 0.48780486, y: 0.45681486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1154
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 311
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4903537, y: 0.50183153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Head
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1001.00006
+        width: 192
+        height: 168.88788
+      alignment: 9
+      pivot: {x: 0.5130209, y: 0.49737105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 310
+        height: 276
+      alignment: 9
+      pivot: {x: 0.49032256, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Torso
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 733.07556
+        width: 207
+        height: 281
+      alignment: 9
+      pivot: {x: 0.44401217, y: 0.40434986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 298.67114
+        y: 568.0935
+        width: 196
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5016778, y: 0.4994595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 709
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 694
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Hair Top
+      rect:
+        serializedVersion: 2
+        x: 298.97955
+        y: 319.8293
+        width: 192
+        height: 259.00003
+      alignment: 9
+      pivot: {x: 0.49750233, y: 0.49679795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 543
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.58, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Legs
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308.44016
+        width: 278.92334
+        height: 232.00003
+      alignment: 9
+      pivot: {x: 0.9717471, y: 0.45763707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 489
+        width: 34
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 438.00003
+        width: 33
+        height: 37.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 273
+        height: 179
+      alignment: 9
+      pivot: {x: 0.4908425, y: 0.4888268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Hair Bot
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 140.53883
+        width: 227
+        height: 189.99998
+      alignment: 9
+      pivot: {x: 0.5642708, y: 0.93221706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62.30059
+        width: 52.61155
+        height: 77.00001
+      alignment: 9
+      pivot: {x: 0.44667, y: 0.5220702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 43.95
+        y: 61
+        width: 57.999996
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4922414, y: 0.50641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 97
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 8.5
+        width: 175
+        height: 132
+      alignment: 9
+      pivot: {x: 0.50285715, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Chest Side
+      rect:
+        serializedVersion: 2
+        x: 345.78674
+        y: 18.962173
+        width: 107
+        height: 132
+      alignment: 9
+      pivot: {x: 0.50666595, y: 0.49271083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 87.76945
+        width: 62
+        height: 61.999992
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.4956541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52.95
+        height: 57
+      alignment: 9
+      pivot: {x: 0.47214353, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 58
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45535716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player1 Female Boobs
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 28
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: Player1
+  userData: 97630257512764
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,7 +8,7 @@ namespace Anima2D
 	public class Bone2D : MonoBehaviour
 	{
 		[SerializeField][FormerlySerializedAs("color")]
-		Color m_Color = Color.white;
+		Color m_Color = Color.cyan;
 
 		[SerializeField][FormerlySerializedAs("mLength")]
 		float m_Length = 1f;

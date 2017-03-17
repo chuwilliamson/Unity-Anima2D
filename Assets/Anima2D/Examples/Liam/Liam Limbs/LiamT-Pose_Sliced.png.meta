@@ -191,12 +191,12 @@ TextureImporter:
       name: LiamT-Pose_Sliced_7
       rect:
         serializedVersion: 2
-        x: 580
+        x: 578
         y: 799
-        width: 147
-        height: 60
+        width: 151
+        height: 62
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5, y: 0.48387095}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -282,12 +282,12 @@ TextureImporter:
       name: Torso
       rect:
         serializedVersion: 2
-        x: 47
-        y: 107.000015
-        width: 393
-        height: 507
+        x: 45
+        y: 105.000015
+        width: 397
+        height: 511
       alignment: 9
-      pivot: {x: 0.5, y: 0.49999997}
+      pivot: {x: 0.5497328, y: 0.517046}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -313,7 +313,7 @@ TextureImporter:
         width: 237
         height: 323
       alignment: 9
-      pivot: {x: 0.49789026, y: 0.5}
+      pivot: {x: 0.6141239, y: 0.74697375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -339,12 +339,12 @@ TextureImporter:
         width: 220
         height: 306
       alignment: 9
-      pivot: {x: 0.49999997, y: 0.503268}
+      pivot: {x: 0.3751795, y: 0.7790204}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     outline: []
   spritePackingTag: 
-  userData: 97608628922960
+  userData: 97625116466177
   assetBundleName: 
   assetBundleVariant: 

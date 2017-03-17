@@ -361,7 +361,7 @@ TextureImporter:
         width: 155
         height: 176
       alignment: 9
-      pivot: {x: 0.5804235, y: 0.48125094}
+      pivot: {x: 0.4746964, y: 0.79384184}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -432,6 +432,6 @@ TextureImporter:
       tessellationDetail: 0
     outline: []
   spritePackingTag: liam
-  userData: 97608668461722
+  userData: 97629816223118
   assetBundleName: 
   assetBundleVariant: 
