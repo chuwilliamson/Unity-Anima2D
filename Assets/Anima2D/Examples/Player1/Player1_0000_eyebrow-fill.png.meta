@@ -83,11 +83,11 @@ TextureImporter:
       name: Player1_0000_eyebrow-fill_0
       rect:
         serializedVersion: 2
-        x: 242
-        y: 439
-        width: 40
-        height: 24
-      alignment: 0
+        x: 237
+        y: 434
+        width: 50
+        height: 34
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -96,17 +96,17 @@ TextureImporter:
       name: Player1_0000_eyebrow-fill_1
       rect:
         serializedVersion: 2
-        x: 305
-        y: 438
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 300
+        y: 433.00003
+        width: 38
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999908}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     outline: []
   spritePackingTag: 
-  userData: 
+  userData: 97630376467820
   assetBundleName: 
   assetBundleVariant: 
