@@ -16,3 +16,8 @@ MonoBehaviour:
   Level: 0
   Strength: 0
   Intelligence: 0
+  OnStatsChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: StatEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  FireBall: 0

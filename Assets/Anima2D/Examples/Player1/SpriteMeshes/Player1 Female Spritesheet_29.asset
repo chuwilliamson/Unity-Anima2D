@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Player1 Female Spritesheet_29
   m_EditorClassIdentifier: 
   m_ApiVersion: 3
-  m_Sprite: {fileID: 21300058, guid: 04643baa4527ae6418cb25ac12d44957, type: 3}
+  m_Sprite: {fileID: 21300076, guid: 04643baa4527ae6418cb25ac12d44957, type: 3}
   m_SharedMesh: {fileID: 43355629078691542}
   m_SharedMaterials:
   - {fileID: 21250293471378818}

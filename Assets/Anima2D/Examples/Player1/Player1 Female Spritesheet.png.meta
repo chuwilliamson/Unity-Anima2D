@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 04643baa4527ae6418cb25ac12d44957
-timeCreated: 1489718120
+timeCreated: 1490067142
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -36,6 +36,13 @@ TextureImporter:
     21300058: Player1 Female Boobs
     21300060: Player1 Female Spritesheet_30
     21300062: Player1 Female Chest Side
+    21300064: Player1 Female Spritesheet_8
+    21300066: Player1 Female Spritesheet_10
+    21300068: Player1 Female Spritesheet_14
+    21300070: Player1 Female Spritesheet_16
+    21300072: Player1 Female Spritesheet_20
+    21300074: Player1 Female Spritesheet_25
+    21300076: Player1 Female Spritesheet_29
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -214,7 +221,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player1 Female Head
+      name: Player1 Female Spritesheet_8
       rect:
         serializedVersion: 2
         x: 314
@@ -240,7 +247,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player1 Female Torso
+      name: Player1 Female Spritesheet_10
       rect:
         serializedVersion: 2
         x: 299
@@ -292,7 +299,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player1 Female Hair Top
+      name: Player1 Female Spritesheet_14
       rect:
         serializedVersion: 2
         x: 298.97955
@@ -318,7 +325,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player1 Legs
+      name: Player1 Female Spritesheet_16
       rect:
         serializedVersion: 2
         x: 0
@@ -370,7 +377,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player1 Female Hair Bot
+      name: Player1 Female Spritesheet_20
       rect:
         serializedVersion: 2
         x: 268
@@ -435,15 +442,15 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player1 Female Chest Side
+      name: Player1 Female Spritesheet_25
       rect:
         serializedVersion: 2
-        x: 345.78674
-        y: 18.962173
-        width: 107
-        height: 132
+        x: 443
+        y: 28
+        width: 54
+        height: 69
       alignment: 9
-      pivot: {x: 0.50666595, y: 0.49271083}
+      pivot: {x: 0.5092593, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -487,7 +494,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player1 Female Boobs
+      name: Player1 Female Spritesheet_29
       rect:
         serializedVersion: 2
         x: 443
@@ -501,6 +508,6 @@ TextureImporter:
       tessellationDetail: 0
     outline: []
   spritePackingTag: Player1
-  userData: 97631720857734
+  userData: 97653135730764
   assetBundleName: 
   assetBundleVariant: 
