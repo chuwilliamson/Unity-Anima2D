@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - prototype
   - 
   - 
   - 
@@ -43,4 +43,10 @@ TagManager:
     locked: 0
   - name: hair
     uniqueID: 3753868057
+    locked: 0
+  - name: jungle
+    uniqueID: 24868661
+    locked: 0
+  - name: prototype
+    uniqueID: 2198100971
     locked: 0

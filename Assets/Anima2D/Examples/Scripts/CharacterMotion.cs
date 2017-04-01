@@ -3,29 +3,65 @@ using System.Collections;
 
 public class CharacterMotion : MonoBehaviour
 {
-	Animator animator;
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
 
-	void Start()
-	{
-		animator = GetComponent<Animator>();
-	}
+    void Update()
+    {
+        float h = Input.GetAxis("Horizontal");
+        float v = Input.GetAxis("Vertical");
+        
+        var move = new Vector3(h, v);
 
-	void Update ()
-	{
-		float xAxis = Input.GetAxis("Horizontal");
+        var dir = (forcemove) ? velocity.normalized : move.normalized;
 
-		Vector3 eulerAngles = transform.localEulerAngles;
+        velocity = dir * speed;
 
-		if(xAxis < 0f)
-		{
-			eulerAngles.y = 180f;
-		}else if(xAxis > 0f)
-		{
-			eulerAngles.y = 0f;
-		}
+        transform.position += velocity * Time.deltaTime;
 
-		transform.localRotation = Quaternion.Euler(eulerAngles);
+        var dot = Vector3.Dot(dir, Vector3.right);
 
-		animator.SetFloat("Forward", Mathf.Abs(xAxis));
-	}
+        if(dot > 0) transform.localRotation = new Quaternion(0, 0, 0, 1);
+        else if(dot < 0) transform.localRotation = new Quaternion(0, 180, 0, 1);
+
+        animator.SetFloat("speed", velocity.magnitude / speed);
+    }
+
+    private void OnGUI()
+    {
+        if(GUI.Button(new Rect(50, 25, Screen.width / 4, Screen.height / 4), "move their"))
+        {
+            StartCoroutine(MoveTo(target));
+        }
+    }
+
+    IEnumerator MoveTo(Transform to)
+    {
+        forcemove = true;
+        var startPosition = transform.position;
+        var endPosition = to.position;
+        var journeyLength = Vector3.Distance(startPosition, endPosition);
+        var startTime = Time.time;
+        
+        Debug.DrawLine(startPosition, endPosition, Color.blue);
+        while(Vector3.Distance(startPosition, transform.position) < journeyLength - 5)
+        {            
+            velocity = (endPosition - startPosition).normalized * speed;
+            yield return null;
+        }
+        forcemove = false;
+        yield return null;
+
+    }
+    public bool forcemove = false;
+    public Vector3 velocity;
+    public Transform target;
+
+    [SerializeField]
+    float speed = 5f;
+
+
+    Animator animator;
 }

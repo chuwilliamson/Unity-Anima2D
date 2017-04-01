@@ -1514,7 +1514,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 1, g: 1, b: 1, a: 1}
 --- !u!21 &21043337446928248
 Material:
   serializedVersion: 6
@@ -1549,7 +1549,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 1, g: 1, b: 1, a: 1}
 --- !u!21 &21056197572083510
 Material:
   serializedVersion: 6
@@ -1584,7 +1584,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21058270972693482
 Material:
   serializedVersion: 6
@@ -1619,7 +1619,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 1, g: 1, b: 1, a: 1}
 --- !u!21 &21069786542869242
 Material:
   serializedVersion: 6
@@ -1654,7 +1654,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21146411328727526
 Material:
   serializedVersion: 6
@@ -1689,7 +1689,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.3921569, g: 0.32941177, b: 0.64705884, a: 1}
+      second: {r: 0.38375866, g: 0.784, b: 0.5735294, a: 1}
 --- !u!21 &21158025505339962
 Material:
   serializedVersion: 6
@@ -1724,7 +1724,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21231601970657226
 Material:
   serializedVersion: 6
@@ -1759,7 +1759,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21257146822344418
 Material:
   serializedVersion: 6
@@ -1794,7 +1794,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 1, g: 1, b: 1, a: 1}
 --- !u!21 &21397296576105824
 Material:
   serializedVersion: 6
@@ -1829,7 +1829,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21470275873281368
 Material:
   serializedVersion: 6
@@ -1864,7 +1864,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21492122418766394
 Material:
   serializedVersion: 6
@@ -1899,7 +1899,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21617088194487298
 Material:
   serializedVersion: 6
@@ -1934,7 +1934,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21641336863624762
 Material:
   serializedVersion: 6
@@ -1969,7 +1969,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21763521542914318
 Material:
   serializedVersion: 6
@@ -2004,7 +2004,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.38375866, g: 0.784, b: 0.5735294, a: 1}
 --- !u!21 &21780101071782158
 Material:
   serializedVersion: 6
@@ -2039,7 +2039,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21909057811002426
 Material:
   serializedVersion: 6
@@ -2074,7 +2074,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 1, g: 1, b: 1, a: 1}
 --- !u!21 &21918620070868136
 Material:
   serializedVersion: 6
@@ -2109,7 +2109,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.77205884, g: 0.73232055, b: 0.73232055, a: 1}
 --- !u!21 &21938371883672550
 Material:
   serializedVersion: 6
@@ -2144,7 +2144,7 @@ Material:
     m_Colors:
     - first:
         name: _Color
-      second: {r: 0.39204162, g: 0.3282872, b: 0.64705884, a: 1}
+      second: {r: 0.38375866, g: 0.784, b: 0.5735294, a: 1}
 --- !u!43 &43030891334382382
 Mesh:
   m_ObjectHideFlags: 0

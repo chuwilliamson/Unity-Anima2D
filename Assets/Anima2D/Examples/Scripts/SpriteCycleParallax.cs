@@ -8,11 +8,11 @@ public class SpriteCycleParallax : MonoBehaviour
 	public Transform target;
 	public Vector2 factor;
 
-	SpriteCycle spriteCicle;
+	SpriteCycle spriteCycle;
 	
 	void Awake()
 	{
-		spriteCicle = GetComponent<SpriteCycle>();
+		spriteCycle = GetComponent<SpriteCycle>();
 	}
 
 	void Start()
@@ -28,9 +28,9 @@ public class SpriteCycleParallax : MonoBehaviour
 
 	void Update()
 	{
-		if(target && spriteCicle)
+		if(target && spriteCycle)
 		{
-			spriteCicle.position = target.position.x*factor.x;
+			spriteCycle.position = target.position.x*factor.x;
 
 			Vector3 localPosition = transform.localPosition;
 			localPosition.y = target.position.y*factor.y;

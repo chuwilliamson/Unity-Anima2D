@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: pose2
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Hips
+    localPosition: {x: -0.021268725, y: 3.2133217, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.7319393, w: 0.6813698}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine
+    localPosition: {x: 1.8891444, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.053891428, w: 0.9985469}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/neck
+    localPosition: {x: 1.49444, y: -3.4924597e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.08580667, w: 0.99631184}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/neck/head
+    localPosition: {x: 1.0000013, y: 0.00000011199154, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7099882, w: 0.7042137}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/lclav
+    localPosition: {x: 1.2937031, y: -1.1576825, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.92636687, w: 0.37662244}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/lclav/lforearm
+    localPosition: {x: 1.1440904, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.09609522, w: 0.9953722}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/lclav/lforearm/lwrist
+    localPosition: {x: 1.274581, y: 0.00000013690442, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.24627565, w: 0.9691999}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/rclav
+    localPosition: {x: 1.7624023, y: 1.5184393, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.80858135, w: 0.58838445}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/rclav/rforearm
+    localPosition: {x: 1.052414, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.085985474, w: 0.9962964}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/spine/rclav/rforearm/rwrist
+    localPosition: {x: 1.4272845, y: -0.0000015459955, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.16736118, w: 0.98589575}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/lthigh
+    localPosition: {x: -0.09768702, y: -1.0987194, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9888516, w: 0.14890453}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/lthigh/lcalf
+    localPosition: {x: 1.5254986, y: -0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.22125421, w: 0.9752162}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/lthigh/lcalf/lfoot
+    localPosition: {x: 1.404798, y: 0.00000037252903, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.7274545, w: 0.686156}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/rthigh
+    localPosition: {x: 0.100550756, y: 1.22587, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9506429, w: 0.31028718}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/rthigh/rcalf
+    localPosition: {x: 1.7336925, y: -0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.2779561, w: 0.96059376}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Hips/rthigh/rcalf/rfoot
+    localPosition: {x: 1.3628651, y: -0.00000030640513, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.62203485, w: 0.78298956}
+    localScale: {x: 1, y: 1, z: 1}
